@@ -1,0 +1,164 @@
+.btn-signup {
+width: 100%;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.cta {
+    background-color: #3F72AF;
+    padding: 7% 15%;
+}
+
+.cta-text {
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.features {
+    padding: 7% 15%;
+    background-color: #FFFFFF;
+    position: relative;
+    z-index: 1;
+}
+
+.footer {
+    padding-top: 50px;
+}
+
+.footer-social {
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.heading {
+    font-weight: 900;
+}
+
+.icon {
+    padding-bottom: 1rem;
+    font-size: 50px;
+    color:#3F72AF;
+}
+
+.icon:hover {
+    color:#5c51c5;
+}
+
+.icon-heart {
+    padding-bottom: 1rem;
+    font-size: 50px;
+    color: red;
+}
+
+.icon-heart:hover {
+    color:#f88888;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+.pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+
+.space {
+    padding-bottom: 3%;
+}
+
+.testimonial-heading {
+    font-family: "Montserrat-Bold"
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #3F72AF;
+}
+
+.text {
+    color: #8F8F8F;
+}
+
+.title {
+    background-color: #3F72AF;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.title-image {
+    width: 20%;
+    rotate: 15deg;
+    position: absolute;
+}
+
+.title-text {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+@media (max-width: 1028px) {
+    .title {
+    text-align: center;
+}
+
+.title-image {
+    position: static;
+    transform: rotate(0);
+}
+}
+
+/*About page*/
+.about-mission-header {
+    font-weight: 700;
+    text-align: center;
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+}
